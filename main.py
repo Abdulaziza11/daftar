@@ -8,7 +8,7 @@ from aiogram.fsm.state import State, StatesGroup
 
 # --- SOZLAMALAR ---
 BOT_TOKEN = "8708141323:AAFhC32S4RnOUIGvW7aPLdpR5HHsbXlLG0E"
-ADMIN_ID = 1853407976  # <--- O'zingizning Telegram ID raqamingiz
+ADMIN_ID = 1853407976 # <--- O'zingizning Telegram ID raqamingiz
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
